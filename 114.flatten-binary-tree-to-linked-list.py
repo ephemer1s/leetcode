@@ -29,3 +29,8 @@ class Solution:
         
 # @lc code=end
 
+'''
+Note: just fetch the last node of the link list, store it, then find the second last node.
+Space: O(1) for allocating a node pointer for the last node.
+Time: O(n) for each node is traversed once.
+'''
