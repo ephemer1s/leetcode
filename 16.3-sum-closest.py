@@ -24,6 +24,9 @@ class Solution:
                         ret = sum
                     j = j + 1
         return ret
-            
+
+'''
+Two pointers
+'''
 # @lc code=end
 
